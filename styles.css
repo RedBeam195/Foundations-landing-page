@@ -115,6 +115,7 @@ section.fourth{
     color: #F9FAF8;
     justify-content: center;
     align-items: center;
+    border-radius: 10px;
 }
 .product-content{
     padding: 8px 16px;
